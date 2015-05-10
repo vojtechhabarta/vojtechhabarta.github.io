@@ -1,5 +1,6 @@
 ---
 title: Famous Painters (edX DEV201x)
+layout: default
 ---
 
 # Famous Painters
