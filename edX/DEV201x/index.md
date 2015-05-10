@@ -10,7 +10,7 @@ TypeScript code uses internal modules and is organized this way:
 
 ### scripts/data.ts
 
-``` TypeScript
+``` ts
 module Data {
     export function loadData(url: string): JQueryPromise<Painter[]> {}
     export class Painter {}
@@ -20,7 +20,7 @@ module Data {
 
 ### scripts/rendering.ts
 
-``` TypeScript
+``` ts
 module Rendering {
     export class Renderer {
         renderPainterSelect(painters: Data.Painter[]) {}
@@ -31,6 +31,6 @@ module Rendering {
 
 ### scripts/app.ts
 
-``` TypeScript
+``` ts
 window.onload = () => {}
 ```
