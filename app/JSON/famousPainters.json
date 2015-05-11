@@ -1,0 +1,77 @@
+﻿{
+    "famousPainters": [
+        {
+            "name": "Michelangelo",
+            "born": "1475-03-06",
+            "placeOfBirth": "Caprese",
+            "died": "1564-02-18",
+            "placeOfDeath": "Rome",
+            "nationality": "Italian",
+            "style": "Renaissance",
+            "examples": [
+                {
+                    "name": "David",
+                    "year": 1504,
+                    "link": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Michelangelo-David_JB01.JPG/320px-Michelangelo-David_JB01.JPG"
+                },
+                {
+                    "name": "Sistine Chapel",
+                    "year": 1512,
+                    "link": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/07/CAPPELLA_SISTINA_Ceiling.jpg/640px-CAPPELLA_SISTINA_Ceiling.jpg"
+                },
+                {
+                    "name": "The Last Judgement",
+                    "year": 1541,
+                    "link": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Michelangelo%2C_Giudizio_Universale_02.jpg/399px-Michelangelo%2C_Giudizio_Universale_02.jpg"
+                }
+            ]
+        },
+        {
+            "name": "Raphael",
+            "style": "Renaissance",
+            "examples": [ "School at Athens", "Lucretia", "Saint George and the Dragon" ]
+        },
+        {
+            "name": "Vincent van Gogh",
+            "style": "Post-Impressionist",
+            "examples": [ "Self-portrait", "The Starry Night", "The Yellow House" ]
+        },
+        {
+            "name": "Claude Monet",
+            "style": "Impressionist",
+            "examples": [ "Morning on the Seine", "The Woman in the Green Dress", "Sunrise" ]
+        },
+        {
+            "name": "Johannes Vermeer",
+            "style": "Baroque",
+            "examples": [ "The Milkmaid", "Girl with a Pearl Earring", "The Music Lesson" ]
+        },
+        {
+            "name": "Josef Lada",
+            "born": "1887-12-17",
+            "placeOfBirth": "Hrusice",
+            "died": "1957-12-14",
+            "placeOfDeath": "Praha",
+            "nationality": "Czech",
+            "style": "Art Nouveau",
+            "examples": [
+                {
+                    "name": "Tichá noc",
+                    "year": 1951,
+                    "link": "http://i.idnes.cz/10/113/org/JAZ3764ac_Lada_Ticha_noc_19511.JPG"
+                },
+                {
+                    "name": "Ponocný",
+                    "year": 1947,
+                    "link": "http://i.idnes.cz/12/113/org/VHA475c14_k_lada.jpg"
+                },
+                {
+                    "name": "Dětské hry v zimě",
+                    "year": 1936,
+                    "link": "http://i.idnes.cz/12/123/org/VHA481b4c_iziana_po_Warhola_vymena_Vanoce_Lada.jpg"
+                }
+            ]
+        }
+    ]
+
+}

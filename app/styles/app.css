@@ -1,0 +1,41 @@
+﻿
+body {
+    margin: 40px;
+}
+
+body, h1, h2, h3, h4, h5, h6 {
+    font-family: 'Segoe UI', sans-serif;
+}
+
+textarea {
+    width: 200px;
+    height: 100px;
+    margin-top: 5px;
+}
+
+.logoImg {
+    float: left;
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
+
+.examples {
+    float: left;
+}
+
+#PainterSelect {
+    margin-bottom: 20px;
+}
+
+.infoName {
+    font-weight: 600;
+}
+
+#PaintingThumbnails img {
+    max-width: 100%;
+}
+
+#PaintingThumbnails h3 {
+    margin-top: 5px;
+    margin-bottom: 3px;
+}
