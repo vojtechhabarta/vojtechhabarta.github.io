@@ -5,6 +5,7 @@ layout: default
 
 # Famous Painters
 
+Application is deployed to [http://www.habarta.cz/edX/DEV201x/app/painters.html](http://www.habarta.cz/edX/DEV201x/app/painters.html) 
 Application is written using TypeScript, Bootstrap and jQuery.
 TypeScript code uses internal modules and is organized this way:
 
@@ -34,3 +35,11 @@ module Rendering {
 ``` ts
 window.onload = () => {}
 ```
+
+## Example screenshots
+
+### Michelangelo
+![Michelangelo](Michelangelo.png)
+
+### Josef Lada
+![Josef Lada](JosefLada.png)
